@@ -5,4 +5,4 @@ If not run on Docker, please set up a databse with the login info given in db_ut
 
 Database schema:
 
-![Database Schema] (dbschema.png?raw=true)
+![Database Schema](dbschema.png)
